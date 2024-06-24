@@ -53,7 +53,7 @@ body {
 }
 
 .rk-header {
-  background-color: red;
+  background-color: #fff;
   position: relative;
   z-index: 5;
 }
@@ -1165,8 +1165,12 @@ body {
   padding-top: 100%;
 }
 
+.nbalogo{
+  padding: -5%;
+}
+
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/Celtics-2.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1175,19 +1179,19 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/dallas1.jpg");
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/tatum2-112322.webp");
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/balon.jpeg");
 }
 
 .item-5 {
-  background-image: url("../img/project-5.jpg");
+  background-image: url("../img/lebron18.webp");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1196,7 +1200,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/jersey_mavs.jpeg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1205,31 +1209,31 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/project-7.jpg");
+  background-image: url("../img/Headband.jpg");
 }
 
 .item-8 {
-  background-image: url("../img/project-8.jpg");
+  background-image: url("../img/rodillera-proteccion-basket-kp500-negro.avif");
 }
 
 .item-9 {
-  background-image: url("../img/project-9.jpg");
+  background-image: url("../img/jersey_bos.jpeg");
 }
 
 .item-10 {
-  background-image: url("../img/project-10.jpg");
+  background-image: url("../img/aro-de-basquetbol-con-pedestal-profesional-lebron-pro2.jpg");
 }
 
 .item-11 {
-  background-image: url("../img/project-11.jpg");
+  background-image: url("../img/aro-basquet-maziso.jpg");
 }
 
 .item-12 {
-  background-image: url("../img/project-12.jpg");
+  background-image: url("../img/teniscurry.png");
 }
 
 .item-13 {
-  background-image: url("../img/project-13.jpg");
+  background-image: url("../img/tablero.webp");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-13 {
@@ -1241,11 +1245,11 @@ body {
 }
 
 .item-14 {
-  background-image: url("../img/project-14.jpg");
+  background-image: url("../img/jordan-shooter-mangas-de-baloncesto-RNN0Fx.png");
 }
 
 .item-15 {
-  background-image: url("../img/project-15.jpg");
+  background-image: url("../img/LaMelo.jpeg");
 }
 
 @media (min-width: 40em) {
@@ -1366,7 +1370,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fentanilojpg.webp");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1571,7 +1575,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fentanilojpg.webp");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
@@ -1641,7 +1645,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fentanilojpg.webp");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
